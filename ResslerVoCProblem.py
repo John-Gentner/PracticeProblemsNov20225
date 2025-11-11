@@ -11,6 +11,5 @@ import matplotlib.pyplot as plt
 
 # He was using variable change to calculate the percentage change, but he should have been using absolute change.
 
-print("test")
+# Next steps, calculation of numbers and running of liner regression. Bonus points for plotting the data.
 
-print("Push Test")
